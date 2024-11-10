@@ -1,4 +1,4 @@
-# Boxy
+# AmiPets
 
 ## Sobre Nós
 
